@@ -6,7 +6,7 @@
         AUTHOR: Azure Automation Team
         LASTEDIT: Mar 14, 2016
 #>
-GALOOOOOOOOOOOOOOOOOOOOOOOO
+GALOOOOOOOOOOOOOOOOOOOOO\
 $connectionName = "AzureRunAsConnection"
 try
 {
